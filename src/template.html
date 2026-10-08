@@ -1,0 +1,135 @@
+<!DOCTYPE html>
+<html lang="en-AU">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1, viewport-fit=cover">
+<title>Lakshmi and Douglass: The Walk That Went Sideways</title>
+<link href="https://fonts.googleapis.com/css2?family=Fredoka:wght@500;600&family=Nunito:wght@500;700&display=swap" rel="stylesheet">
+<style>
+:root{
+  --bg:#dff0f7; --card:#ffffff; --ink:#1f2a44; --muted:#5a6785;
+  --accent:#c9792b; --accent-ink:#ffffff; --btn:#fff4e3; --btn-border:#e3b27a; --btn-hover:#ffe7c4;
+  box-sizing:border-box;
+  padding-top:env(safe-area-inset-top,0px); padding-bottom:env(safe-area-inset-bottom,0px);
+}
+@media (prefers-color-scheme: dark){
+  :root:not([data-theme="light"]){
+    --bg:#121a2e; --card:#1c2640; --ink:#f1f3fa; --muted:#a2adc8;
+    --accent:#e99a4b; --accent-ink:#1a1206; --btn:#27345a; --btn-border:#4a5d94; --btn-hover:#32436f;
+  }
+}
+:root[data-theme="dark"]{
+  --bg:#121a2e; --card:#1c2640; --ink:#f1f3fa; --muted:#a2adc8;
+  --accent:#e99a4b; --accent-ink:#1a1206; --btn:#27345a; --btn-border:#4a5d94; --btn-hover:#32436f;
+}
+html{scroll-padding-top:env(safe-area-inset-top,0px)}
+*{box-sizing:border-box}
+body{margin:0;background:var(--bg);color:var(--ink);font-family:'Nunito',system-ui,-apple-system,'Segoe UI',sans-serif;font-size:21px;line-height:1.55;min-height:100vh}
+.wrap{max-width:640px;margin:0 auto;padding:20px 16px 48px}
+header{display:flex;align-items:center;justify-content:space-between;gap:12px;margin-bottom:14px}
+.title{font-family:'Fredoka','Trebuchet MS',system-ui,sans-serif;font-weight:600;font-size:17px;color:var(--muted);line-height:1.2}
+.tools{display:flex;gap:8px}
+.tool{font:inherit;font-size:16px;font-weight:700;border:2px solid var(--btn-border);background:var(--btn);color:var(--ink);border-radius:12px;padding:8px 12px;cursor:pointer}
+.tool:hover{background:var(--btn-hover)}
+.tool:disabled{opacity:.4;cursor:default}
+.tool:focus-visible,.choice:focus-visible{outline:3px solid var(--accent);outline-offset:2px}
+.page{background:var(--card);border-radius:22px;padding:26px 24px 28px;box-shadow:0 2px 0 rgba(0,0,0,.08)}
+.num{font-family:'Fredoka','Trebuchet MS',system-ui,sans-serif;font-weight:600;font-size:15px;color:var(--accent);margin:0 0 4px}
+.part{font-family:'Fredoka','Trebuchet MS',system-ui,sans-serif;font-weight:500;font-size:15px;color:var(--muted);margin:0 0 14px}
+.page p.text{margin:0 0 14px}
+.choices{display:flex;flex-direction:column;gap:12px;margin-top:22px}
+.choice{font:inherit;font-weight:700;text-align:left;border:2px solid var(--btn-border);background:var(--btn);color:var(--ink);border-radius:16px;padding:14px 16px;cursor:pointer;line-height:1.35;display:flex;justify-content:space-between;align-items:center;gap:12px}
+.choice:hover{background:var(--btn-hover)}
+.choice .go{font-family:'Fredoka',system-ui,sans-serif;font-size:15px;color:var(--muted);white-space:nowrap}
+.end{margin-top:22px;text-align:center}
+.end .big{font-family:'Fredoka','Trebuchet MS',system-ui,sans-serif;font-weight:600;font-size:28px;margin:0 0 4px}
+.again{font:inherit;font-weight:700;background:var(--accent);color:var(--accent-ink);border:0;border-radius:16px;padding:14px 22px;cursor:pointer;margin-top:12px}
+.endings{margin:12px 0 0;color:var(--muted);font-size:16px}
+@media (prefers-reduced-motion: no-preference){
+  .page.swap{animation:fade .18s ease-out}
+  @keyframes fade{from{opacity:.3}to{opacity:1}}
+}
+</style>
+</head>
+<body>
+<div class="wrap">
+  <header>
+    <div class="title">Lakshmi and Douglass:<br>The Walk That Went Sideways</div>
+    <div class="tools">
+      <button class="tool" id="back" aria-label="Go back one page">Back</button>
+      <button class="tool" id="restart" aria-label="Start again from page 1">Start over</button>
+    </div>
+  </header>
+  <main class="page" id="page" aria-live="polite"></main>
+  <p class="endings" id="endings"></p>
+</div>
+
+<script>
+const RAW = `
+__STORY__
+`;
+
+const PARTS = [
+  [1,"The Door in the Footpath"],[11,"The Park"],[21,"The High Street"],[31,"Hargrave Street"],
+  [41,"The River"],[51,"The Hill"],[61,"The Night Market"],[71,"The Great Wheelie Bin Race"],
+  [81,"The Long Way Home"],[91,"Home"]
+];
+function partName(n){let name="";for(const [s,t] of PARTS){if(n>=s)name=t}return name}
+
+const pages = {};
+let cur = null;
+for (const line of RAW.split("\n")) {
+  const l = line.trim();
+  if (!l) continue;
+  if (l[0] === "#") { cur = { text: [], choices: [], end: false }; pages[parseInt(l.slice(1), 10)] = cur; }
+  else if (l.startsWith("> ")) { const [label, to] = l.slice(2).split(" => "); cur.choices.push({ label, to: parseInt(to, 10) }); }
+  else if (l === "!END") cur.end = true;
+  else cur.text.push(l);
+}
+
+const endingPages = Object.keys(pages).filter(n => pages[n].end).map(Number);
+const el = document.getElementById("page");
+const backBtn = document.getElementById("back");
+const endingsEl = document.getElementById("endings");
+let history = [];
+let found = new Set();
+try { found = new Set(JSON.parse(localStorage.getItem("ld-endings") || "[]")); } catch (e) {}
+
+function render(n, push) {
+  if (push) history.push(n);
+  const p = pages[n];
+  el.className = "page";
+  void el.offsetWidth;
+  el.className = "page swap";
+  let html = '<p class="num">Page ' + n + '</p><p class="part">' + partName(n) + '</p>';
+  html += p.text.map(t => '<p class="text">' + t.replace(/&/g, "&amp;").replace(/</g, "&lt;") + '</p>').join("");
+  if (p.end) {
+    if (!found.has(n)) { found.add(n); try { localStorage.setItem("ld-endings", JSON.stringify([...found])); } catch (e) {} }
+    html += '<div class="end"><p class="big">The End</p><button class="again" id="again">Walk again from page 1</button></div>';
+  } else {
+    html += '<div class="choices">' + p.choices.map((c, i) =>
+      '<button class="choice" data-to="' + c.to + '"><span>' + c.label.replace(/&/g, "&amp;").replace(/</g, "&lt;") +
+      '</span><span class="go">page ' + c.to + '</span></button>').join("") + '</div>';
+  }
+  el.innerHTML = html;
+  backBtn.disabled = history.length < 2;
+  endingsEl.textContent = "Endings found: " + found.size + " of " + endingPages.length;
+  window.scrollTo(0, 0);
+}
+
+el.addEventListener("click", e => {
+  const c = e.target.closest(".choice");
+  if (c) { render(parseInt(c.dataset.to, 10), true); return; }
+  if (e.target.id === "again") { history = []; render(1, true); }
+});
+backBtn.addEventListener("click", () => {
+  if (history.length > 1) { history.pop(); render(history[history.length - 1], false); }
+});
+document.getElementById("restart").addEventListener("click", () => { history = []; render(1, true); });
+
+// sanity check: every link points at a real page
+for (const n in pages) for (const c of pages[n].choices) if (!pages[c.to]) console.error("Broken link", n, "->", c.to);
+render(1, true);
+</script>
+</body>
+</html>

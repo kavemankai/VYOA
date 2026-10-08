@@ -1,0 +1,525 @@
+#1
+Lakshmi clips on Douglass's lead. He is a beagle, so his nose is already three houses ahead of the rest of him. It points toward Hargrave Street, where there is a bin he has been thinking about for weeks.
+At the first corner there is a small door in the footpath. Someone is knocking on it from underneath.
+> Knock back => 2
+> Let Douglass sniff it => 3
+> Pretend not to hear => 4
+#2
+Lakshmi knocks back three times. The door opens and a gnome in a dressing gown pokes out his head.
+“Have you seen my slippers?” he asks.
+Douglass has been wearing them as a moustache this whole time.
+> Hand the slippers back => 5
+> Ask the gnome what else is down there => 6
+#3
+Douglass sniffs the door for a very long time. The door gets nervous and sneezes. A cloud of glitter shoots out, and Douglass turns bright purple. He doesn't mind. He thinks it's an improvement.
+> Peek through the door to see who sneezed => 6
+> Walk on and hope nobody notices => 7
+#4
+Lakshmi pretends not to hear. The knocking gets louder. A tiny voice says, “I can hear you pretending.”
+Douglass sits down in the middle of the footpath. He has decided this is a stopping place, and nobody argues with a beagle's nose.
+> Knock back after all => 2
+> Drag Douglass away => 7
+#5
+The gnome puts on his slippers and wiggles his toes. “Splendid. I owe you a favour.”
+He whistles, and a snail the size of a sofa slides out from behind a bin. It is wearing a saddle.
+“Free ride,” says the gnome. “Mind the slime.”
+> Climb on the snail => 8
+> Say no thank you and keep walking => 9
+#6
+Through the little door there is a whole town, about as tall as Lakshmi's knee. It has tiny shops, a tiny bus, and a rank of snail taxis waiting in a row. A sign says NO DOGS. Underneath, in smaller writing, it says EXCEPT BEAGLES, BECAUSE YOU CAN'T STOP THEM.
+> Take a snail taxi => 8
+> Say thanks and walk on => 9
+#7
+Lakshmi walks on. At the bus stop a lady is eating a sausage roll, and Douglass sits down in front of her with his best face.
+If Douglass is purple, the lady looks him up and down. “Very in this year,” she says.
+> Ask her for a crumb => 9
+> Hurry on => 10
+#8
+The snail is slower than a Monday, but its slime trail turns out to be a slide. Whoosh. They zoom past the post box, past the bakery, past a man who drops his sandwich in shock.
+Douglass's ears flap like two small flags. His nose does not stop sniffing, even at this speed.
+> Jump off at the next corner => 9
+> Stay on to the end of the street => 10
+#9
+At the corner a duck in a tiny tie stands in the middle of the footpath. “This is a toll bridge,” he says.
+“There is no bridge,” says Lakshmi.
+“There's a puddle. Pay up.”
+Douglass has no money. He does have half a biscuit in his cheek from this morning.
+> Pay the toll with the biscuit => 10
+> Argue that a puddle is not a bridge => 11
+#10
+Three dogs behind a fence have formed a gang. They are not scary. They all wear purple socks, and their leader has a bucket on her head.
+“Join us,” she says. “We meet Tuesdays.”
+Douglass wags so hard his back half goes sideways.
+> Let Douglass join for one minute => 11
+> Go back and look for the slime slide => 8
+#11
+The park gate is open. A pigeon in a tiny hat sits on top of it.
+“Gerald,” he says. “Park manager. Everything here is free except the swings, and the swings are broken.”
+Douglass sniffs Gerald's hat. Gerald allows it, once.
+> Go to the sprinkler on the big lawn => 12
+> Go to the duck pond => 13
+> Go to the benches under the trees => 14
+#12
+A sprinkler pops up in the middle of the lawn. Every drop is glitter. Within seconds Lakshmi has sparkly hair, a sparkly jumper and a sparkly nose.
+A fairy rises out of the sprinkler head, shaking her wings like a wet cat. “First person to enjoy my sprinkler this year,” she says. “Make it quick, I'm cold.”
+> Ask the fairy what she is doing in a sprinkler => 15
+> Run off across the lawn => 16
+#13
+On the pond there is a pedalo shaped like a swan. It is not a pedalo. It is a real swan, wearing a captain's hat.
+“Fares are one crust of bread,” says the swan. “I don't take cards.”
+Lakshmi has no bread. Douglass has no bread either, but he is looking at the swan's lunch.
+> Let Douglass drag you away to the hedge => 16
+> Ask Gerald if he has a crust => 17
+#14
+An old man on a bench is playing chess against a squirrel. The squirrel is winning. The man is sulking and has hidden two of his own pawns in his pocket.
+Douglass has noticed the squirrel. The squirrel has noticed Douglass.
+> Watch the game for a minute => 17
+> Let Douglass chase the squirrel into the hedge => 18
+#15
+“Wishes are not my department,” says the fairy, wringing out a wing. “Wishes are at the wishing well. It only works on Wednesdays, and today is Wednesday. Don't tell anyone I told you.”
+She sinks back into the sprinkler.
+> Look for the wishing well => 19
+> Ask why the hedge is giggling => 18
+#16
+A hedge starts to giggle. It is a deep, shaky giggle, like a hedge being tickled.
+Douglass has found a hole in it. A single stripy sock is sticking out of the hole, and it is wiggling.
+> Pull the sock => 18
+> Look through the hole => 19
+#17
+Gerald lands on Lakshmi's shoulder, out of breath. “Emergency,” he says. “Wishing well. Behind the hedge. Wednesdays only. Everybody knows that. Except you, apparently.”
+Gerald is wrong about a lot of things. Nobody is sure if this is one of them.
+> Follow Gerald to the well => 19
+> Ignore Gerald and wander toward the park gate => 20
+#18
+Out of the hedge rolls a hedgehog the size of a sofa. It is wearing one stripy sock on a back foot.
+“Thank you,” it says. “I lost the other one. I'm a bit prickly about it.”
+Douglass sits down politely. A beagle knows when to be careful.
+> Offer to help find the other sock => 19
+> Say sorry and back away toward the park gate => 20
+#19
+The wishing well is so small Lakshmi has to kneel. A voice at the bottom says, “One wish. Make it small, I've only just woken up.”
+Lakshmi cannot decide, so she says the first thing she thinks of: “Something nice for Douglass.” The well burps. A sausage the length of a canoe floats up.
+> Share the sausage with the park animals, then wander to the gate => 20
+> Carry the sausage out of the park => 21
+#20
+An ice cream van is parked at the park gate. A man leans out of the window. “Soft serve or really soft serve?” he asks.
+The van plays a tune. Douglass sits down and howls along. He knows every word and none of them are the right ones.
+> Carry on out of the park => 21
+> Go back and look at that hedge again => 18
+#21
+The high street smells of warm bread and old coins. There is a bakery on one side and a statue in the middle of the square. Across the road is a shop with a sign that says HATS FOR ANYTHING.
+Douglass's nose picks the bakery. Lakshmi's feet are not sure.
+> Go into the bakery => 22
+> Look at the statue => 23
+> Try the hat shop => 24
+#22
+The baker is called Mr Proof. “Mind the loaves,” he says. “They've been restless since I turned the oven off.”
+A baguette runs past on two stubby legs. A cob loaf in a very small apron runs after it.
+“Take a biscuit for the beagle,” says Mr Proof. “And hurry, the parade is starting.”
+> Chase the baguette => 25
+> Take the biscuit and go to see the parade => 26
+#23
+A bronze knight sits on a bronze horse in the middle of the square. As Lakshmi walks past, the knight clears his throat.
+“Excuse me. Sir Reginald Wobble. I have not moved since 1894. Would someone walk me round the square? My horse has pins and needles.”
+A band of kazoos is warming up on the other side of the square.
+> Walk Sir Reginald round the square => 26
+> Say you are busy and walk on => 27
+#24
+The hatter, Miss Brim, has hats for dogs, hats for snails and a hat for a Tuesday. She puts a tiny top hat on Douglass. He looks very serious about it. He does not want to give it back.
+“Ask me the price,” she says, “but only if you really want to know.”
+> Ask the price => 27
+> Leave quickly with the hat still on Douglass => 28
+#25
+The baguette is fast for a bread. It dodges a pigeon and a pram and slides under a bench. Douglass is faster. He catches it, and then he doesn't know what to do next.
+The baguette looks up at him. “Please don't,” it says. Douglass lets go. The baguette bows, hops onto a hopscotch chalked on the pavement, and bounces away.
+> Follow the baguette => 29
+> Go and see what that man with the cabbages is doing => 28
+#26
+Down the middle of the high street comes a parade. It has a band of kazoos, a float made of cheese, and a man dressed as a small tree. Nobody knows what it is for.
+A kazoo player winks at Douglass. Douglass winks back, which on a beagle looks like a sneeze.
+> Join the parade => 28
+> Watch from the kerb => 29
+#27
+The clock on the tower strikes thirteen. Everyone on the high street swaps shoes with the person next to them. The baker is wearing the hatter's boots. A pigeon is wearing a sock.
+Lakshmi finds that one of her shoes is now on Douglass's front left paw. It fits perfectly, which is annoying.
+> Swap your shoes back => 29
+> Keep the new shoes and walk on => 30
+#28
+A man on a unicycle is juggling five cabbages. He does not drop one. He is very proud of this.
+Douglass wants a cabbage. It is not a normal sort of wanting. He has been staring for a full minute and the juggler has started to sweat.
+> Ask the man to teach you to juggle => 29
+> Leave before Douglass gets his cabbage => 30
+#29
+Someone has chalked a hopscotch on the pavement. It does not stop at the pavement. The squares carry on up the wall of the chemist, over the awning and onto the roof.
+Lakshmi hops one to ten and finds herself on the roof. From up here she can see the whole town. She can see Hargrave Street. She can see a bin shining like treasure. Douglass howls at it.
+> Hop back down => 30
+> Run straight for Hargrave Street => 31
+#30
+The crossing at the end of the street has a real zebra standing on it. His stripes are every colour except the usual two. He directs the traffic with a lollipop sign.
+“I only cross at the crossing,” he says. “Everyone else is welcome to.”
+> Cross with the zebra => 31
+> Go back for another look at the cabbages => 28
+#31
+Hargrave Street is long and quiet, with a bin at every gate. Douglass stops pulling for the first time all day. It is the loudest silence Lakshmi has ever heard.
+Near the end of the street stand three odd bins. One is gold. One is blue and humming. One is green and wearing glasses.
+> Visit the gold bin => 32
+> Visit the humming blue bin => 33
+> Visit the green bin with glasses => 34
+#32
+The gold bin has a crest on its lid and a very small monocle. “Password,” it says.
+Douglass says, “Woof.” That is not the password. The bin sniffs, which is rude, because bins have no nose.
+> Guess the password: sausage => 35
+> Ask for a hint => 36
+#33
+The blue recycling bin is humming. When Lakshmi gets close she hears that it is not alone. Every recycling bin on the street is humming together in harmony. It is a choir, and the song is about empty jars.
+> Join in the humming => 36
+> Ask the choir where the best bin is => 37
+#34
+The green bin sits behind a cardboard desk. A sign says BIN LIBRARIAN, and under it, SHHH.
+“Looking for something?” it whispers. “We have rubbish fiction, rubbish non-fiction and a very long book about a banana peel.”
+> Borrow the banana peel book => 37
+> Whisper, “Where is the best bin?” => 38
+#35
+“Sausage,” says the gold bin, “is exactly right.” The lid swings open. Inside there is a staircase going down, lit by candles, and a smell so good that Douglass faints onto the footpath.
+It takes Lakshmi a minute to wake him up. When she does, he walks straight down the stairs on his own.
+> Go down the stairs after him => 38
+> Read the note stuck to the lid => 39
+#36
+Down the whole street, the bins begin to shuffle into a line. It is a conga. Nobody knows who started it. A bin at the front is wearing a party hat and shouting, “Hup! Hup! Hup!”
+Douglass is already in the middle of it. He does not know the steps. Neither does anyone else.
+> Join the conga => 38
+> Step out of the line => 39
+#37
+A bin lorry rumbles up the street. The driver is a possum in a high-vis vest.
+“Bin night's tomorrow,” he says. “I'm only practising.” He tips a wheelie bin into the back and says “Sorry” to it. The bin says, “That's fine, it's what I'm for.”
+> Ask the possum for a lift to the end of the street => 39
+> Ask him what is at the end of the street => 40
+#38
+Gerald lands on a letterbox, one wing out for balance.
+“The best bin is at the end of the street,” he says. “Number forty. Nobody is allowed to ask how I know.”
+Douglass has already started walking. His nose is leading him now, and Lakshmi is only the person on the other end of the lead.
+> Run after Douglass => 39
+> Ask Gerald how he knows => 40
+#39
+At the last gate stands a bin so shiny that Lakshmi can see her face in it. Douglass trembles from nose to tail. This is it. The best bin in the world.
+The lid is up. The bin is empty. Taped inside is a note: GONE TO THE RIVER. BACK SOON. (I HAVE WHEELS.)
+Douglass sits down very slowly.
+> Follow the wheel tracks to the river => 41
+> Pat Douglass and give him a minute => 40
+#40
+Douglass lies down next to the empty bin and puts his chin on the footpath. A lady across the road leans over her fence.
+“He'll be all right,” she says. “That bin does this to everyone. Try the river. Take a biscuit.” She throws one over the fence. Douglass catches it without lifting his head.
+> Go to the river => 41
+> Look at the library bin again => 38
+#41
+The river is wide and brown and in no hurry. The wheel tracks run right down to the edge of the water and stop.
+There are three ways across. There is a stone bridge with a sign that says TROLL. There is a jetty with boats made from old shoes. And there is a line of stepping stones, and some of the stones are blinking.
+> Try the bridge => 42
+> Try the shoe boats => 43
+> Try the blinking stepping stones => 44
+#42
+Under the bridge a troll in a cardigan is knitting a scarf long enough to wrap the bridge twice.
+“Toll's a joke,” he says. “A good one. I've heard all the bad ones.”
+Douglass sits down. He has never told a joke in his life, but he is willing to try.
+> Tell the troll a joke => 45
+> Say you will find another way across => 46
+#43
+The jetty has a row of boats made of old shoes. There is a wellington canoe, a trainer ferry, and a very large slipper with a tiny mast.
+The boat keeper is a frog in a captain's cap. “Hire a boat,” he says. “Pay in socks.”
+Lakshmi has one sock. Douglass has none, but he may have eaten some.
+> Pay a sock for the wellington canoe => 46
+> Hire the giant slipper => 47
+#44
+Every stepping stone has an eye, and every eye is looking at Douglass. They are turtles pretending to be stones, and they are not very good at it.
+“We are not turtles,” says the first one. “We are a footpath.”
+> Hop across anyway => 47
+> Ask the footpath which way the bin went => 48
+#45
+Lakshmi tells the troll a joke about a bin that was too full to speak. The troll laughs so hard he drops a stitch.
+“A bin went by an hour ago,” he says, wiping his eyes. “Wheels. Sunhat. Wouldn't stop for the toll either.” He waves them over the bridge.
+> Cross the bridge => 48
+> Stay for a second joke => 49
+#46
+A fish in a tiny life jacket leaps out of the river. “Bin on wheels!” it shouts. “Went that way! Up the hill! Wearing a sunhat!”
+It flops back into the water before Lakshmi can say thank you.
+> Cross to the far bank and follow the tracks => 48
+> Wait to see if the fish comes back => 49
+#47
+The river hiccups. All the water jumps a foot into the air, hangs there, and drops back down. The fish look embarrassed.
+A rubber duck the size of a van bobs past with a sign that says NEED A LIFT?
+> Sit on the duck => 49
+> Hold the lead tight and wade on => 50
+#48
+On the far bank a toad in a ferryman's hat is sweeping the mud. “Mind the puddles,” he says. “They bite on Wednesdays.”
+Douglass looks at the nearest puddle. The puddle looks back. Something in it clicks.
+> Jump over the puddles => 49
+> Go round the long way => 50
+#49
+Gerald is waiting on a bollard, looking smug. “You took your time,” he says. “I took a boat. I made it from a hat.”
+The hat is already sinking. Gerald steps off it onto the bollard, as if that was the plan.
+> Ask Gerald where the bin went => 50
+> Say goodbye to Gerald and hurry on => 51
+#50
+The wheel tracks start again on the grass and head straight up the hill. Douglass pulls so hard that his collar slides round to the back of his neck.
+Behind them the river burps once, as if it had been holding it in.
+> Follow the tracks up the hill => 51
+> Go back and look at that toad again => 48
+#51
+The hill is steep and covered in long yellow grass. The wheel tracks wobble up it in a wiggly line. The wind up here has opinions, and it is sharing all of them.
+There are three ways up. One path goes past some kites. One goes past a very large picnic. One goes straight into a small, lost cloud that has landed on the grass.
+> Go past the kites => 52
+> Go past the picnic => 53
+> Go into the cloud => 54
+#52
+A flock of sheep is flying kites shaped like sheep. They think this is the funniest thing that has ever happened. The kites do not agree and keep trying to eat the grass.
+“Borrow one!” baas the nearest sheep. “Or ask us anything. We know everything. We have been looking down at the town for years.”
+> Borrow a kite => 55
+> Ask the sheep about the bin => 56
+#53
+A giant is having a picnic on a rock. She is about the size of a house and she is very polite about it. “Mrs Boulder,” she says. “Mind my sandwiches. They're the size of your head.”
+Douglass has already noticed the sandwiches. His eyes are the size of two plates.
+> Ask Mrs Boulder if she has seen a bin on wheels => 56
+> Quietly hold Douglass back and keep climbing => 57
+#54
+The cloud is cold and damp, and it smells like the inside of a pillow. In the middle of it a very small cloud is sitting with its knees pulled up.
+“I got lost,” it says, and sneezes drizzle on Lakshmi's shoes. “I was meant to be over the sea.”
+> Offer to walk it up to the top => 57
+> Ask if it has seen anything with wheels => 58
+#55
+The kite is shaped like a sheep and it pulls like a horse. In a second Lakshmi is a foot off the ground, then three feet. Douglass bites the lead and hangs on, flying sideways, ears straight out behind him.
+The sheep cheer. One of them takes a photo. Nobody knows who gave a sheep a camera.
+> Let the kite take you to the top => 58
+> Let go and land in the grass => 59
+#56
+A hat tumbles past, rolling down the hill like a wheel. It is a sunhat with a tag on it. The tag says PROPERTY OF BIN.
+“Hat's loose,” someone calls from far above. “Wind took it. Too windy for a bin up here, anyway!”
+> Chase the hat => 58
+> Hold Douglass and climb up to the voice => 59
+#57
+A very small thunderstorm settles above Lakshmi's head. It rains on her left shoulder only. Her right shoulder stays dry. Douglass watches this with deep suspicion.
+The storm grumbles, “Sorry. I'm only practising too.”
+> Walk on and let it rain on your shoulder => 59
+> Walk round to the other side so it rains on the other shoulder => 60
+#58
+The wind knocks Lakshmi over. She rolls. Douglass rolls after her. They go down the hill in a bundle of arms, legs, ears and lead, like two mismatched wheels.
+They stop on a flat ledge halfway up. Nothing is broken. The grass is in Lakshmi's pockets and Douglass is wearing a daisy.
+> Get up and climb again => 59
+> Stay on the ledge and look for the bin from here => 60
+#59
+At the top, the whole town is laid out below like a toy. The river is a brown ribbon. The high street is a toy shop. And on the far side of the hill the lights are coming on in a big square of tents and stalls. It is a night market.
+The wheel tracks go straight down toward it.
+> Go down toward the lights => 61
+> Sit for a minute and watch the sunset => 60
+#60
+A small, kind cloud slides under Lakshmi's feet. It is the lost one, or a cousin. It gives them a ride part of the way down the hill, soft as a mattress. Douglass looks at the ground a long way below and decides to lie very flat.
+“Everyone gets home in the end,” says the cloud. “Even me.”
+> Ride the cloud down to the lights => 61
+> Go back up to try the hillside again => 58
+#61
+The night market is lit by a thousand paper lanterns. It smells of frying onions and sounds like a thousand people all haggling at once. Every stall has a sign. Most of the signs are wrong.
+Three stalls stand near the entrance. One sells lost things. One is a sausage stand. One has a goldfish in a turban.
+> Go to the lost things stall => 62
+> Go to the sausage stand => 63
+> Go to the goldfish => 64
+#62
+The lost things stall has everything people have ever lost. There are odd socks, marbles, umbrellas, a lost temper in a jar and a whole lost afternoon, folded.
+The stall keeper is Mrs Mislay. “Anything here is yours,” she says, “if you can describe it. That's the rule.”
+> Ask for a stripy sock => 65
+> Ask why everyone is leaving => 66
+#63
+The sausages at Mr Sizzle's stand are two metres long and sold by the centimetre. One is cooking itself, flipping over with a tiny spatula.
+Douglass sits in front of the stand and does not blink. Mr Sizzle looks at Lakshmi. “I take payment in stories,” he says. Lakshmi tells him about the day so far. He gives them a sausage and wipes his eyes.
+> Ask why everyone is running toward the back of the market => 66
+> Sit on a crate and share the sausage => 67
+#64
+A goldfish in a turban floats in a bowl on a table. The sign says MADAME BUBBLES SEES ALL. She looks at Douglass for a long time.
+“I see a bin,” she says. “I see a race. I see... an itchy ear.” Douglass scratches his ear at once. Madame Bubbles nods, very pleased with herself.
+> Ask what the race is => 67
+> Ask where Gerald is => 68
+#65
+Mrs Mislay finds the stripy sock. “Funny,” she says. “This one has been missing for three days.” Lakshmi puts it in her pocket. It hums a little, the way a sock hums when it misses its pair.
+She thinks of a hedgehog on a hill, and decides to find it a better ending than a stall.
+> Look at the other stalls => 68
+> Follow the crowd => 69
+#66
+A crowd runs past. Everyone is shouting the same thing. “RACES! The big one! Wheelie bins! It's starting!”
+The stalls are emptying. The stall keepers are closing up their shutters and running after them in their aprons. Even the paper lanterns seem to be leaning that way.
+> Follow the crowd => 68
+> Look for the quiet way round => 69
+#67
+A tiny train goes puffing between the stalls, pulling a line of open carriages. Every carriage is full of lost things: lost hats, lost keys, a very sad umbrella.
+“Lost property!” shouts the driver, a mouse in an oversized cap. “Going to the office! Mind your toes!”
+> Wave at the umbrella => 69
+> Follow the train to see where it goes => 70
+#68
+Gerald is standing on an upturned bucket at a hat stall, wearing eleven hats. “I'm in disguise,” he says.
+It is not working. He is the only pigeon in a tower of hats.
+“I know where the race is,” he whispers loudly. “Don't tell Gerald.”
+> Ask Gerald to show you => 69
+> Say you already know, and walk past => 70
+#69
+At the back of the market there is a gap in the canvas. Beyond it is a big field lit by floodlights, with a race track made of old tyres. A banner flaps between two poles.
+THE GREAT WHEELIE BIN RACE. TONIGHT.
+Douglass sits down in the grass and stares at the banner as if it has been put there just for him.
+> Step through the gap => 70
+> Wait at the gap and watch from here => 71
+#70
+A horn sounds across the field. The crowd goes quiet. Douglass stands up and the fur on his back lifts, because his nose has found the best smell in the world.
+The wheel tracks lead straight to the starting line.
+> Run to the starting line => 71
+> Look back at Gerald and his hats => 68
+#71
+The track is a big oval of old tyres under the floodlights. Bins of every size are lining up at the start, rattling their lids. A bin with a rocket tied to it is being told off by a goat with a whistle.
+Douglass has stopped pulling. He has gone very still, like a beagle who has seen a ghost made of sausages.
+> Go to the bin by the starting line => 72
+> Go to the pit crew => 73
+> Go to the goat with the whistle => 74
+#72
+The shiniest bin Lakshmi has ever seen sits at the starting line, with a sunhat tied under its lid. “Wanda,” says the bin kindly. “I know why you've come. Every dog in town does.”
+She tilts her lid. Douglass puts his nose in the gap. For a long moment he does not move. Then he sneezes, sits down, and looks at Lakshmi like a dog who has met his hero.
+> Ask Wanda why she left Hargrave Street => 75
+> Ask Wanda who the other racers are => 76
+#73
+Three possums in overalls are pumping up bin tyres with a bicycle pump. One of them looks up. It is the bin lorry driver from Hargrave Street.
+“Still practising,” he says. “Bin night's tomorrow. Tonight, I do the races.”
+He gives Douglass a pat and a very small spanner to hold.
+> Ask who the favourite is => 76
+> Ask if the possums need a hand => 77
+#74
+The goat's whistle is the size of a trumpet. “Entry forms!” she shouts. “Name of bin! Name of rider!”
+“We aren't racing,” says Lakshmi.
+“Everyone is racing,” says the goat. “It is a rule I made up just now.” She hands Lakshmi a pen that is also a carrot.
+> Fill in the form anyway => 77
+> Hand the form back and find a good place to watch => 78
+#75
+“I leave one night a year,” says Wanda. “Everyone thinks a bin's job is to stay put and be full. I wanted to see how fast I could go.”
+She looks at Douglass. “I'll be back before bin night. Come and see me on the way home. I'll carry the lead if you like.”
+Douglass wags so hard that the sunhat flaps.
+> Say you'll cheer her on => 78
+> Ask what she plans to do after => 79
+#76
+The horn goes off like a hundred ducks being startled at once. The bins surge forward in a big noisy bunch, wheels spinning, lids flapping. There is a bin pulled by a very small horse. There is a bin with a fan strapped to the back.
+Lakshmi and Douglass run along the infield. Douglass has found a second wind, and it smells like bacon.
+> Run alongside the leaders => 78
+> Cut across the field to the first corner => 79
+#77
+At the first corner a bin tips over, and three more tip over it. The pile-up is spectacular, like a shelf of pots falling in slow motion.
+Nobody is hurt. A raccoon climbs out of the top bin and says, “I'm fine, I'm fine, I was only the passenger.” The crowd claps.
+> Help to pick up the bins => 79
+> Step round the pile and run on => 80
+#78
+Halfway round the track the bins are all spread out. Wanda is in the lead, with her sunhat streaming out behind her like a tail. Gerald is hanging off the back of the second bin by his feet.
+“I'm winning!” he shouts. He is not winning. He is not even in the race.
+> Cheer for Wanda => 79
+> Run across the infield to the finish => 80
+#79
+The last bend is a muddy puddle. It is the same puddle from the river bank. It has followed them all this way, and it still bites on Wednesdays.
+The bins swerve. Wanda drives straight through it with her lid up, and the puddle snaps at her wheel and misses.
+> Shout, “Keep going, Wanda!” => 80
+> Hold Douglass's lead tight and watch => 81
+#80
+Wanda crosses the finish line first, a full wheel ahead of a bin with a fan strapped to it. The crowd goes wild. Kazoos play. The goat blows her whistle so hard that she gets dizzy and sits down.
+Wanda rolls in a slow lap of honour, sunhat still on. When she comes round, she stops in front of Douglass and tips her lid.
+> Go and say well done => 81
+> Watch the goat get up again => 78
+#81
+The crowd goes home. The floodlights click off one by one. Wanda has a trophy that is also a saucepan lid, and no pockets to put it in.
+“I'm too tired to roll home alone,” she says. “Would you walk with me? Part of the way, at least.”
+Douglass is already walking beside her, nose pressed to her side. There are three ways to go.
+> Take the path under the streetlights => 82
+> Take the shortcut across the football oval => 83
+> Take the road past the bakery => 84
+#82
+The streetlights along the path are humming. Each one hums a different part of the same lullaby, and passes it on to the next one down the line. It is the sleepiest song Lakshmi has ever heard.
+Douglass's eyes begin to close. He keeps walking, in a straight line, fast asleep.
+> Hum along with the streetlights => 85
+> Let Douglass sleepwalk and keep going => 86
+#83
+The football oval is not empty. A game is going on in the dark, with possums on one side and sheep on the other. The ball is a very large round cheese. Nobody seems to know the score, and nobody seems to mind.
+A possum waves them through. “Don't touch the cheese,” she says. “It's winning.”
+> Cross the oval, careful of the cheese => 86
+> Stop and watch for a minute => 87
+#84
+The bakery light is still on. Mr Proof is inside, tired and floury, and he looks very relieved.
+“The loaves all came back at midnight,” he says. “Every one. Here, rolls on the house.” He passes out four warm rolls. Douglass gets one. Wanda says she cannot eat but she can smell, and that is nearly as good.
+> Say thank you and eat the rolls on the walk => 87
+> Ask Mr Proof the quickest way home => 88
+#85
+The moon is following them. When Lakshmi stops, the moon stops. When she starts again, so does the moon. It is much bigger than usual and slightly too close.
+“It does that,” says Wanda. “It's lonely. Just wave.”
+Lakshmi waves. The moon, very slowly, waves back.
+> Wave again => 88
+> Walk faster and pretend not to notice => 89
+#86
+Gerald is asleep on a fence, with his hat pulled down over his eyes. He wakes up as they pass.
+“I wasn't sleeping,” he says. “I was resting my eyes in a way that looked like sleeping.”
+He is wearing eleven hats. He appears to have forgotten to take them off.
+> Ask Gerald which way is quickest => 88
+> Tell him to go home to bed => 89
+#87
+A very old cat crosses the road. It takes eleven minutes. Everyone stops to let it pass, including a bus, a bicycle, and a man with a sandwich. When it reaches the other side, it looks back as if to say, “You're welcome.”
+Douglass has fallen asleep standing up. Wanda holds him upright with her lid.
+> Carry Douglass the last bit => 89
+> Wait for him to wake up => 90
+#88
+At the corner of their street the little door in the footpath is open again. The gnome waves from the doorway, with both slippers on.
+“Safe home!” he calls. “Mind the glitter, it gets everywhere.”
+He closes the door. A small cloud of glitter puffs out of the keyhole, and settles on Wanda's lid.
+> Go through to the front gate => 89
+> Say goodnight to the gnome, politely => 90
+#89
+The house is the one with the light on. Someone inside is calling that dinner will be ready soon. The street is quiet and the whole sky is a deep, soft blue.
+Douglass lifts his head and wags once. It is the smallest wag of the whole day, and the best one.
+> Walk up to the gate => 90
+> Go straight through to the front door => 91
+#90
+Wanda stops at the gate. “This is where I leave you,” she says. “I'm only a bin. I don't live here. But I'm too tired to go home tonight.”
+She looks at Lakshmi, and at Douglass, and at the lit window. Everyone is thinking the same thing, and nobody is saying it.
+> Open the gate => 91
+> Go back and say goodbye to the gnome => 88
+#91
+Home. The porch light is on and the whole street smells of somebody else's dinner. Douglass stands on the doormat and looks at the door as if it might open if he stares hard enough.
+There are three things left to do tonight. They are all important, and Lakshmi can only do one first.
+> Fetch Douglass his treat => 92
+> Look up at the moon => 93
+> Sort out where Wanda will sleep => 94
+#92
+The treat jar lives on the top shelf of the kitchen. Lakshmi has to stand on a chair to reach it, and the lid makes a noise like a small door opening.
+Douglass appears at her elbow. He was not in the room a second ago.
+> Give him the treat right now => 95
+> Make him do his tricks first => 96
+#93
+The moon is hanging low over the roof of the house, close enough to touch. It is looking at Lakshmi with the patient face of someone who has followed you home and would like to be asked in.
+Douglass looks up too. He whines very softly, which is how a beagle says please.
+> Make a wish on the moon => 97
+> Ask the moon if it would like to come in => 98
+#94
+Wanda stands in the middle of the garden, steaming gently in the cold. She is the best bin in the world and she is a long way from home.
+“I could sleep here,” she says. “If nobody minds. Or you could walk me back. I know the way. I just don't like going alone.”
+> Let Wanda sleep in the garden => 99
+> Walk Wanda back to Hargrave Street => 100
+#95
+Douglass takes the treat as gently as he can, which is not very gently. It is gone in one bite. He looks at Lakshmi. He looks at the jar. He looks at Lakshmi again.
+She gives him a second one, because it has been a very long day. He eats it slowly this time, to make it last, and then falls asleep in the middle of the kitchen floor with his chin on her shoe.
+!END
+#96
+Douglass sits. Douglass lies down. Douglass rolls over, gives a paw, plays dead and gets up again, all in one go and in the wrong order. It is the best trick he has ever done, and it has no name.
+Lakshmi laughs so much she nearly drops the jar. Douglass gets a treat for each part of the trick, so five in total. He does not tell anyone about the maths.
+!END
+#97
+Lakshmi wishes on the moon. “I wish Douglass could talk, just for one minute.”
+The moon thinks about it, then blinks. Douglass clears his throat. “Lakshmi,” he says. “I love you. Also, I smelled the best bin in the world today, and I will never be the same. Also, is it dinner?”
+The minute runs out. He goes back to barking, but he winks first. Dinner is a very big one, and a treat comes with it.
+!END
+#98
+The moon says it would love to come in, but it is rather large. Instead it sits on the roof with a soft thump, with its feet dangling over the gutter.
+It stays there all night, humming. In the morning there is a silver, star-shaped biscuit on the windowsill. Douglass eats it before anyone can ask what it is made of. The moon is back in the sky by breakfast, looking innocent.
+!END
+#99
+Wanda sleeps in the garden, under the lemon tree, with her sunhat tipped over her lid. In the night Gerald lands on her and goes to sleep inside her. He is still wearing eleven hats.
+In the morning, Wanda gets up and says she must go home before bin night. Gerald says he was not here. Douglass gets a treat for not telling anyone.
+!END
+#100
+The three of them walk Wanda back to Hargrave Street. It takes a long time and nobody minds. The streetlights hum the lullaby again. At number forty, Wanda rolls up the drive and puts her sunhat on the gatepost.
+“Come and visit on Wednesdays,” she says. She tips her lid, and a dog biscuit the size of a saucer rolls out. Douglass carries it home in his mouth, very carefully, the whole way.
+!END
